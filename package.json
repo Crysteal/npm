@@ -1,0 +1,14 @@
+{
+  "name": "pgl-hello_world",
+  "version": "0.0.1",
+  "description": "test demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pgl-hello"
+  ],
+  "author": "pgl",
+  "license": "MIT"
+}
